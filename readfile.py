@@ -6,7 +6,3 @@ for lines in data:
     count += 1
 print ('total number of lines:',count)
 
-import os
-file_size = os.path.getsize("hii.txt")
-print("\nThe size of hii.txt is :",file_size,"Bytes")
-
