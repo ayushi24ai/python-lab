@@ -5,4 +5,5 @@ for lines in data:
     print(lines)
     count += 1
 print ('total number of lines:',count)
+f.close()
 
